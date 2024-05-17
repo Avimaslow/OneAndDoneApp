@@ -1,19 +1,20 @@
-ONEANDONE
+OneAndDone
 
-Need to find a restroom near you? Look no more, that's what 1&Done is for
+Need to find a restroom near you? Look no more, that's what OneAndDone is for!
 
-1&done - Find Restrooms Near You
+1&Done - Find Restrooms Near You
 
-1&done is a Swift beta version app that helps users find restrooms nearby. It utilizes CloudKit for the backend, allowing users to access a database of restroom locations. The app provides directions to the selected restroom, along with links to the restroom's website, email, and phone.
+OneAndDone is a Swift-based app in its beta version, designed to help users locate nearby restrooms effortlessly. Utilizing CloudKit for its backend, OneAndDone offers a comprehensive database of restroom locations. The app not only helps you find restrooms but also provides detailed directions and contact information for each location.
 
 Features
 
-Find nearby restrooms
-Get directions to the selected restroom
-Access restroom details, including address and description
-Visit the restroom's website
-Email the support team for feedback or location updates
-Call the restroom location directly
+Find Nearby Restrooms: Easily locate restrooms in your vicinity.
+Get Directions: Navigate to your chosen restroom with ease.
+Restroom Details: Access essential information like the address and description.
+Visit Restroom's Website: Direct links to the restroom's official site.
+Feedback and Updates: Email the support team for any feedback or location updates.
+Direct Calls: Contact the restroom location directly through the app.
+
 
 https://github.com/Avimaslow/OneAndDoneApp/assets/155393634/14fbcde5-d5c4-46f7-b287-5f43c467bf78
 
